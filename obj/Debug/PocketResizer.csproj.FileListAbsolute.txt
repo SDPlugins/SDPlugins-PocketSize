@@ -1,0 +1,11 @@
+C:\Users\HPUSER\Documents\SDPlugins-Work\Github\SDPlugins-PocketSize\bin\Debug\PocketResizer.dll
+C:\Users\HPUSER\Documents\SDPlugins-Work\Github\SDPlugins-PocketSize\bin\Debug\PocketResizer.pdb
+C:\Users\HPUSER\Documents\SDPlugins-Work\Github\SDPlugins-PocketSize\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\HPUSER\Documents\SDPlugins-Work\Github\SDPlugins-PocketSize\bin\Debug\Assembly-CSharp.dll
+C:\Users\HPUSER\Documents\SDPlugins-Work\Github\SDPlugins-PocketSize\bin\Debug\Rocket.API.dll
+C:\Users\HPUSER\Documents\SDPlugins-Work\Github\SDPlugins-PocketSize\bin\Debug\Rocket.Core.dll
+C:\Users\HPUSER\Documents\SDPlugins-Work\Github\SDPlugins-PocketSize\bin\Debug\Rocket.Unturned.dll
+C:\Users\HPUSER\Documents\SDPlugins-Work\Github\SDPlugins-PocketSize\bin\Debug\UnityEngine.dll
+C:\Users\HPUSER\Documents\SDPlugins-Work\Github\SDPlugins-PocketSize\obj\Debug\PocketResizer.csprojResolveAssemblyReference.cache
+C:\Users\HPUSER\Documents\SDPlugins-Work\Github\SDPlugins-PocketSize\obj\Debug\PocketResizer.dll
+C:\Users\HPUSER\Documents\SDPlugins-Work\Github\SDPlugins-PocketSize\obj\Debug\PocketResizer.pdb
